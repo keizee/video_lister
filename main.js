@@ -9,13 +9,13 @@ var app = new Vue({
     videos: [
       {
         show: true,
-        title: "Happier",
-        url: "https://www.youtube.com/embed/iWZmdoY1aTE"
+        title: "Tsumugi Uta",
+        url: "https://www.youtube.com/embed/fIfCzNIubbA"
       },
       {
         show: false,
-        title: "Happier - Chorus no controls",
-        url: "https://www.youtube.com/embed/iWZmdoY1aTE?controls=0&amp;start=55"
+        title: "2018",
+        url: "https://www.youtube.com/embed/741Mt64oOLU"
       }
     ]
   },
